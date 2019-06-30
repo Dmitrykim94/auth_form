@@ -2,7 +2,7 @@
 <b>Auth form on Node.js express and handlebars.</b>
 <code>
  npm install;
- npm i nodemon
+ npm i nodemon;
  nodemon
 </code>
 <b><h3>Форма логина</h3><hr></hr></b>
