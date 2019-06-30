@@ -1,5 +1,8 @@
 # auth_form
 <b>Auth form on Node.js express and handlebars.</b>
+<br>
+<b>To start project:</b>
+<br>
 <code>
  npm install;
  npm i nodemon;
